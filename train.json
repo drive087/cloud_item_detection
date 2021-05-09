@@ -1,0 +1,26 @@
+{
+    "class_names": [    
+        "chang",  
+        "homey",
+        "lay",
+        "mama",
+        "milo",
+        "rosa",
+        "waiwai",
+        "pepsi"
+
+        
+    ],
+    "class_roots": [      
+        "./dataset/train/chang",  
+        "./dataset/train/homey",
+        "./dataset/train/lay",
+        "./dataset/train/mama",
+        "./dataset/train/milo",
+        "./dataset/train/rosa",
+        "./dataset/train/waiwai",
+        "./dataset/train/pepsi"
+        
+    ]
+}
+

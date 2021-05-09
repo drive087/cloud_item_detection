@@ -1,0 +1,20 @@
+{
+    "class_names": [    
+        "chang",  
+        "homey",
+        "lay",
+        "mama",
+        "milo",
+        "rosa",
+        "waiwai"
+    ],
+    "class_roots": [      
+        "./test/chang",  
+        "./test/homey",
+        "./test/lay",
+        "./test/mama",
+        "./test/milo",
+        "./test/rosa",
+        "./test/waiwai"
+    ]
+}

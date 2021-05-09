@@ -1,0 +1,26 @@
+{
+    "class_names": [    
+        "chang",  
+        "cutter",
+        "lay",
+        "mama",
+        "milo",
+        "scissors"
+    ],
+    "class_roots": [      
+        "./query_img/train3/chang",  
+        "./query_img/train3/cutter",
+        "./query_img/train3/lay",
+        "./query_img/train3/mama",
+        "./query_img/train3/milo",
+        "./query_img/train3/scissors"
+    ],
+    "price":
+        {"chang":0,
+        "cutter":7,
+        "lay":37,
+        "mama":99,
+        "milo":13,
+        "scissors":5
+        }
+}
