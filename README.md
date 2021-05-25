@@ -47,13 +47,11 @@ Our application is trying solve the problem of waiting in a queue for a while in
 - Try to use some other segmentation instead of traditional methods to solve the limitation.
 - The linkage between application’s authentication  and the cashierless checkout has to be created to handle more than 1 users.
 
-## Dependencies Installation
-    $ pip install -r requirements.txt
-	$ python main.py
 
 ###  Video URL
 The video introducing this project is available at: https://www.youtube.com/watch?v=Cvn_HZuV8eg
 
+### HOW TO
 1. conda env create -f environment.yml 
 2. conda activate <your env name>
 2. python main_add_item_2_train.py (Capture background image for image processing-click BG, p.s.this program needed plain background for good perform)
